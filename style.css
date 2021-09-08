@@ -1,0 +1,66 @@
+.wrapper {
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    width:  600px;
+}
+.menuRight {
+    width: 100px;
+    height: 400px;
+    float: right;
+    
+}
+.menuLeft {
+    width: 100px;
+    height: 400px;
+    float:left
+    
+    
+}
+.content {
+    
+}
+.header {
+    background:silver ;
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+.main {
+    padding: 0px 1px;
+    background: grey;
+    margin-left: 124px;
+    margin-right: 124px;
+    
+    
+}
+.footer {
+    background: silver;
+    text-align: center;
+    
+}
+
+body{
+
+font-family:sans-serif ;
+font-weight: 500;
+text-indent: 25px;
+
+
+
+}
+p{
+    font-weight: normal;
+    text-align: left ;
+    text-indent: 25;
+    margin: 0px 10px;
+    
+    
+}
+.menu{
+    background: lime;
+    width: 100px;
+    padding: 7px;
+    height: 250;
+}
+
